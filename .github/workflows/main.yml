@@ -1,0 +1,1 @@
+make luci-app-ssr-plus/{clean,compile} V=s
